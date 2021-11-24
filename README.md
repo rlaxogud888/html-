@@ -1,4 +1,5 @@
-# html-
+# html 쇼핑몰 회원관리
+## 학교에서 배우는 쇼핑몰 회원관리를 만들어 보았습니다.
 \
 ![image](https://user-images.githubusercontent.com/94346298/143246702-d1225739-f330-4773-8ac3-066c80d10d17.png)
 \
